@@ -1,7 +1,7 @@
-# Streamlit Template 2
+# Streamlit Template 3
 
 ### Status
-This template is for use in training
+This template is for use in training. For further training material see [HSMA Module](https://hsma.co.uk/hsma_content/modules/current_module_details/7_git_and_web_development.html), [HSMA Streamlit book](https://webapps.hsma.co.uk/) and [Streamlit Documentation](https://docs.streamlit.io/). 
 
 ### About the project
 Contains a basic streamlit example

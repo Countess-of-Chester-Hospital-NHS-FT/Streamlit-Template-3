@@ -13,7 +13,7 @@ Note: Only public or simulated data are shared in this repository
 * app - contains all app pages
 
 In order to run the app, in the terminal move into the app (using cd app)
-and use `streamlit run zombie.py` (where filename is the page you want to run).
+and use `streamlit run launch.py` (where filename is the page you want to run).
 
 ### Built with
 Captured in requirements.txt file

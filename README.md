@@ -12,11 +12,14 @@ Note: Only public or simulated data are shared in this repository
 
 * app - contains all app pages
 
-In order to run the app, in the terminal move into the app (using cd app)
-and use `streamlit run launch.py` (where filename is the page you want to run).
+In order to run the app, in the terminal move into the app folder (using `cd app`)
+and use `streamlit run launch.py`.
+
+In order to run the app locally, create a conda environment using environment.yml
+In order to deploy on streamlit community cloud (only for apps with no sensitive or personal information) the requirements.txt file contains the environment.
 
 ### Built with
-Captured in requirements.txt file
+Captured in requirements.txt and environment.yml files
 
 ### Contributing
 Contributions and identification of issues are welcomed.
